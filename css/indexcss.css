@@ -1,0 +1,45 @@
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid blue; */
+    border-radius: 5px;
+    flex-wrap: wrap;
+    background-color: rgba(233, 227, 227, 0.884);
+}
+
+.items img {
+    width: 100%;
+    justify-content: center;
+}
+
+.items {
+    border: 2px solid gray;
+    background-color: white;
+    border-radius: 4px;
+    width: 25%;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.items p {
+    /* border: 2px solid green; */
+    width: 100%;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
+.up {
+    position: fixed;
+    bottom: 8%;
+    right: 0;
+    width: 6rem;
+}
+
+.up img {
+    width: 60px;
+}

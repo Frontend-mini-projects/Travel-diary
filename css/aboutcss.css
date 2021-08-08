@@ -1,0 +1,9 @@
+
+.details{
+    /* border: 2px solid blue; */
+    margin: auto 7%;
+    padding: 3%;
+}
+.details p{
+    font-family: 'Ubuntu', sans-serif;
+}

@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+#navigation {
+    background-color: rgb(101, 136, 248);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#bar {
+    list-style: none;
+    display: flex;
+    /* border: 2px solid red; */
+    width: 50%;
+    justify-content: center;
+}
+
+#bar li {
+    border: 2px solid white;
+    margin: 2px;
+    padding: 5px 1.5%;
+    border-radius: 50px;
+
+}
+
+#bar li:hover {
+    background-color: rgb(173, 200, 231);
+    color: blue;
+}
+
+a {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}

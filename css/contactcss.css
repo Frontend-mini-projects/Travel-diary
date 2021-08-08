@@ -1,0 +1,50 @@
+
+        .container{
+            /* border: 2px solid red; */
+            width: 50%;
+            margin: auto;
+            font-size: 20px;
+        }
+
+        form {
+            padding: 8%;
+        }
+
+        input,textarea {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 4%;
+            padding-left: 7px;
+            border: none;
+            border-bottom: 1px solid gray;
+
+        }
+
+        input::placeholder,textarea::placeholder {
+            font-family: cursive;
+            font-size: large;
+        }
+
+
+        button {
+            display: block;
+            background-color: blue;
+            width: auto;
+            margin: auto;
+            padding: 10px 30px;
+            color: white;
+            font-size: medium;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            border: none;
+            border-radius: 2px;
+        }
+
+        button:hover {
+            opacity: 0.8;
+        }
+
+        @media screen and (max-width:500px) {
+            .container{
+                width: 70%;
+            }
+        }
