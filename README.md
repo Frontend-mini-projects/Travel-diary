@@ -8,5 +8,8 @@ Course Link - [Click Here](https://www.udemy.com/course/html-basic-to-advanced/)
 
 Hosted website Link - [Click Here](http://utprojects.epizy.com/travel_diary/index.html?i=1)
 
+Preview Website 
+![Preview](https://github.com/utkarshgupta04092003/Travel-diary/blob/main/Screenshot%20(27).png)
+
 
 Note - I am not promoting any course, I mention this course here because the idea of this project given from this course.
